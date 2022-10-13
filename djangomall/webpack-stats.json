@@ -1,0 +1,27 @@
+{
+  "status": "done",
+  "assets": {
+    "fa-solid-900.woff2": {
+      "name": "fa-solid-900.woff2",
+      "path": "/Users/coalball/Downloads/Django/djangomall/static/webpack_bundles/fa-solid-900.woff2"
+    },
+    "fa-solid-900.ttf": {
+      "name": "fa-solid-900.ttf",
+      "path": "/Users/coalball/Downloads/Django/djangomall/static/webpack_bundles/fa-solid-900.ttf"
+    },
+    "main.css": {
+      "name": "main.css",
+      "path": "/Users/coalball/Downloads/Django/djangomall/static/webpack_bundles/main.css"
+    },
+    "main.js": {
+      "name": "main.js",
+      "path": "/Users/coalball/Downloads/Django/djangomall/static/webpack_bundles/main.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main.css",
+      "main.js"
+    ]
+  }
+}
