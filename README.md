@@ -16,5 +16,5 @@ Bootstrap
 
 ## Instruction
 
-Download /djangomall and run "python3 manage.py runserver" in the terminal. Then open another terminal and run "npm run watch".
-Thus you can visit http://127.0.0.1/accounts/login
+Download /djangomall and run "python3 manage.py runserver" in the terminal. Next open another terminal and run "npm run watch".
+Then you can visit http://127.0.0.1/accounts/login
